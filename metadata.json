@@ -1,0 +1,6 @@
+{
+  "name": "Shop Lê Dương - Nạp Game & Credits",
+  "description": "Hệ thống nạp game bản quyền, quy đổi Credits tự động và quản lý giao dịch an toàn Shop Lê Dương.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
